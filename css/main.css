@@ -11,7 +11,8 @@ body {
 	margin: 0 auto;
 }
 
-.top{
+/*top section*/
+.top {
 	background-color: #a5d2da;
 }
 
@@ -23,3 +24,20 @@ body {
 .fa {
 	padding-right: 15px;
 }
+
+.nav a:hover {
+	border-radius: 5px;
+	background-color: #545454;
+}
+
+/*services*/
+.thumbnail {
+    border: 0 none;
+    box-shadow: none;
+}
+
+.services {
+	background-color: white;
+	padding-top: 50px;
+}
+
